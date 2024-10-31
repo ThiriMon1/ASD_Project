@@ -1,4 +1,4 @@
-# Car Dealer System
+# Car Dealership System
 
 ## Sign-in
 The system supports three roles:
